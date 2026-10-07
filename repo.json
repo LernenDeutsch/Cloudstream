@@ -1,0 +1,9 @@
+{
+  "name": "⚡ LernenDeutsch • Official Repository",
+  "description": "LernenDeutsch CloudStream Eklenti Deposu",
+  "iconUrl": "https://raw.githubusercontent.com/LernenDeutsch/Cloudstream/main/logo.png",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/LernenDeutsch/Cloudstream/main/plugins.json"
+  ]
+}
