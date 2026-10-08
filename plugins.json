@@ -2,7 +2,7 @@
     {
         "url": "https://raw.githubusercontent.com/LernenDeutsch/Cloudstream/main/LernenDeutschProvider.cs3",
         "status": 1,
-        "version": 3,
+        "version": 4,
         "name": "Deutsch Lernen",
         "internalName": "LernenDeutschProvider",
         "authors": ["BuzGibi"],
