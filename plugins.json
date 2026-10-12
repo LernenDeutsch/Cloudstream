@@ -2,7 +2,7 @@
     {
         "url": "https://raw.githubusercontent.com/LernenDeutsch/Cloudstream/main/LernenDeutschProvider.cs3",
         "status": 1,
-        "version": 1,
+        "version": 810265,
         "name": "Deutsch Lernen",
         "internalName": "LernenDeutschProvider",
         "authors": ["BuzGibi"],
@@ -15,7 +15,7 @@
     {
         "url": "https://raw.githubusercontent.com/LernenDeutsch/Cloudstream/main/DiziBankProvider.cs3",
         "status": 1,
-        "version": 1,
+        "version": 1210261,
         "name": "DiziBank",
         "internalName": "DiziBankProvider",
         "authors": ["BuzGibi"],
